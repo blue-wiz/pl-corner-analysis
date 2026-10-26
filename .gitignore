@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# StatsBomb raw cache (re-downloaded on first run). The processed
+# corners.csv IS committed so the notebook and tests run offline.
+data/events_*.json
+data/matches_*.json

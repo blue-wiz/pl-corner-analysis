@@ -1,0 +1,5 @@
+zone,corners,shots,goals,shot_rate,goal_rate,shot_rate_low,shot_rate_high
+deeper / edge of area,2503,1024,87,0.409,0.0348,0.39,0.428
+near post,519,147,25,0.283,0.0482,0.246,0.323
+far post,527,148,14,0.281,0.0266,0.244,0.321
+central six-yard,558,141,17,0.253,0.0305,0.218,0.29
